@@ -1,6 +1,1 @@
-node_modules/
-artifacts/
-cache/
-.env
-deploy-info.json
-frontend/js/contract-config.js
+.env 

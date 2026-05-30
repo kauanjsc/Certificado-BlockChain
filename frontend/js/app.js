@@ -22,7 +22,7 @@ const NETWORKS = {
   },
   // Sepolia testnet (11155111)
   "0xaa36a7": {
-    address: "0x0000000000000000000000000000000000000000", // ← cole o endereço do deploy na Sepolia aqui
+    address: "0x47B40f1382f0089a5F846762A8F30dD14F5710B6",
     chain: {
       chainId: "0xaa36a7",
       chainName: "Sepolia",
